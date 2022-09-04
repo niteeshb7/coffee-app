@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/accept-order.iml" filepath="$PROJECT_DIR$/accept-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/coffee-app.iml" filepath="$PROJECT_DIR$/coffee-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coffee-order-ui.iml" filepath="$PROJECT_DIR$/coffee-order-ui.iml" />
     </modules>
   </component>
 </project>
